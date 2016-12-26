@@ -7,8 +7,8 @@ from lxml import etree
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import re
-import time
-import datetime
+#import time
+#import datetime
 import os
 
 
