@@ -23,3 +23,5 @@ http://www.mimiip.com/
 http://www.66ip.cn/
 
 http://ip84.com/gn/ 这一个好像不行了
+
+更多代理IP网址列表请见我的简书博客 http://www.jianshu.com/p/93fd64a2747b
